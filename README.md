@@ -1,1 +1,1 @@
-# L-mpada-js
+# Lampada-js
